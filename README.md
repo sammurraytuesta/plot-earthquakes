@@ -20,6 +20,6 @@ This program derives its data from a CSV file based on historical earthquake tre
 - Circles (plotted data) are sized based on magnitude and colored based on date (skyblue: July before the 29th, violet: July after the 29th, pink: August before the 9th, red: August before the 19th after the 9th, white: August before the 31st after the 19th).
 
 ## Turtle Graphics 
-The circles are created using Python's turtle graphics and the turtle object’s circle method. The foloowing is the output of the program utilizing turtle graphics to display the data in the CSV file:
+The circles are created using Python's turtle graphics and the turtle object’s circle method. The following is the output of the program utilizing turtle graphics to display the data in the CSV file:
 
 ![earthquake program output image](earthquakes.png)
