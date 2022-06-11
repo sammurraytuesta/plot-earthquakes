@@ -9,6 +9,7 @@ A program aimed at plotting data from a chart (CSV) on a map to show historical 
   <ol>
     <li><a href="#Program-Specification">Program Specification</a></li>
     <li><a href="#Turtle-Graphics">Turtle Graphics</a></li>
+    <li><a href="#Thank-You">Thank You!</a></li>
 </details>
 
 ## Program Specification
@@ -23,3 +24,6 @@ This program derives its data from a CSV file based on historical earthquake tre
 The circles are created using Python's turtle graphics and the turtle object’s circle method. The following is the output of the program utilizing turtle graphics to display the data in the CSV file:
 
 ![earthquake program output image](earthquakes.png)
+  
+## Thank You!
+Thank you for checking out PlotEarthquakes!
